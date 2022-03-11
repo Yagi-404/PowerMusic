@@ -15,3 +15,7 @@ powershell "[console]::beep(<tone>,<duration>)"
 ```
 
 Higher the tone value is, more acute the sounds get.
+
+# License
+
+It's under MIT License.
