@@ -5,6 +5,7 @@ Here you can find PS Scripts that makes music.
 
 ## Avalible songs
 - Harry Potter 🧙‍♂️
+- Seven Nations Army by The White Stripes
 
 ## How it's made ?
 
